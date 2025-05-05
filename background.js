@@ -1,0 +1,1 @@
+console.log('AtCoder Analytics background service worker loaded');

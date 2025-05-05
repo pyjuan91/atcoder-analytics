@@ -10,9 +10,13 @@
     "1024": "icons/icon1024.png"
   },
 
-  "permissions": [
-    "storage"
-  ],
+  "applications": {
+    "gecko": {
+      "id": "atcoder-analytics@example.com"
+    }
+  },
+
+  "permissions": ["storage"],
 
   "host_permissions": [
     "https://kenkoooo.com/atcoder/atcoder-api/v3/user/submissions?*",
