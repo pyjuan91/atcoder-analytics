@@ -87,4 +87,4 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 ---
 
-Thank you for using and contributing to AtCoder Analytics Extension! ❤️
+Thank you for using and contributing to AtCoder Analytics Extension!
